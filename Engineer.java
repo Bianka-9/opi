@@ -11,4 +11,9 @@ public class Engineer extends Employee {
     public Engineer(){
         this.diploma ="ismeretlen";
     }
+
+    public void working(){
+        System.out.println("mérek...");
+    }
+
 }
